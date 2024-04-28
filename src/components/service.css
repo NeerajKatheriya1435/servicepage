@@ -15,12 +15,16 @@
     /* background-color: wheat; */
 }
 
+.developerDiv {
+    color: white;
+}
+
 .developerDiv h1 {
-    font-size: 4vmax;
+    font-size: 5vmax;
 }
 
 .developerDiv p {
-    font-size: larger;
+    font-size: 1.6vmax;
 }
 
 .developerDiv h1::before {
@@ -32,7 +36,6 @@
     z-index: -1;
     height: 88%;
     width: 100%;
-    opacity: .8;
 }
 
 .svgContainer {
